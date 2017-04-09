@@ -17,6 +17,7 @@ CLEAVELAND HEART DISEASE DATASET
 This dataset takes in 13 features and predicts the presence or absence of heart disease.
 
 FEATURES:
+
 features.csv
 
 1. age: age in years 
@@ -57,7 +58,8 @@ features.csv
 12. ca: number of major vessels (0-3) colored by flourosopy
 13. thal: 3 = normal; 6 = fixed defect; 7 = reversable defect 
 
-LABEL
+LABEL:
+
 label.csv
 
 The Predicted Attribute
@@ -70,6 +72,7 @@ The Predicted Attribute
 -- Value >1 : Severity of narrowing.
 
 Dataset Archive : https://archive.ics.uci.edu/ml/datasets/Heart+Disease
+
 Also Visit : https://www.neilspaul.com
 
 
